@@ -1,5 +1,5 @@
 # isto_sim
-Simulate quadrupolar spin dynamics using irreducible spherical tensor operators (ISTOs). This is useful for modelling nuclei with half-integer spin greater than 1/2 (e.g. sodium, oxygen, etc), particularly if you're interested in multiple quantum coherences.
+Simulate spin dynamics for spin-3/2 nuclei (23Na, 7Li, 39K, etc.) using irreducible spherical tensor operators (ISTOs). This is useful for modelling quadrupolar relaxation and multiple quantum coherences.
 
 The code implements the model described here:
 
